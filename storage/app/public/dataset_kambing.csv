@@ -1,0 +1,99 @@
+id_kambing,umur,jenis_kelamin,ras,suhu_tubuh,nafsu_makan,gejala,diagnosis,riwayat_vaksinasi,tanggal_pemeriksaan
+K001,38,Betina,Peranakan Etawa,40.0,Tidak Ada,"gatal, demam, lemas",Scabies,Tidak,2025-04-05
+K003,47,Jantan,Jawarandu,40.2,Normal,demam,Pneumonia,Tidak,2025-04-18
+K004,46,Betina,Kacang,38.1,Menurun,"mata berair, batuk, diare",Pneumonia,Tidak,2025-04-04
+K005,36,Jantan,Saanen,40.1,Tidak Ada,gatal,Scabies,Ya,2025-04-08
+K006,9,Betina,Peranakan Etawa,39.0,Tidak Ada,"demam, -",Pneumonia,Ya,2025-04-10
+K007,30,Jantan,Boer,38.7,Menurun,"batuk, lemas",Pneumonia,Tidak,2025-04-14
+K008,31,Betina,Peranakan Etawa,40.0,Normal,"diare, lemas",Cacingan,Tidak,2025-04-02
+K010,47,Betina,Saanen,37.9,Menurun,mata berair,Pneumonia,Tidak,2025-03-30
+K011,6,Jantan,Peranakan Etawa,38.6,Normal,"luka kulit, demam, berat badan turun",Scabies,Ya,2025-04-23
+K012,17,Jantan,Jawarandu,40.2,Menurun,"-, diare",Cacingan,Ya,2025-04-14
+K013,27,Betina,Kacang,40.4,Menurun,diare,Cacingan,Ya,2025-04-06
+K014,14,Betina,Boer,39.4,Normal,"batuk, gatal, luka kulit",Scabies,Tidak,2025-03-26
+K015,23,Betina,Peranakan Etawa,40.9,Menurun,"demam, berat badan turun",Pneumonia,Ya,2025-04-12
+K016,22,Jantan,Saanen,40.2,Normal,"mata berair, batuk",Pneumonia,Tidak,2025-04-18
+K017,33,Jantan,Jawarandu,40.7,Normal,"mata berair, luka kulit",Scabies,Tidak,2025-04-04
+K018,7,Betina,Boer,40.5,Tidak Ada,"lemas, demam",Pneumonia,Ya,2025-04-07
+K019,37,Betina,Boer,38.7,Normal,"-, mata berair, diare",Pneumonia,Ya,2025-03-28
+K020,43,Betina,Peranakan Etawa,39.9,Normal,"lemas, demam, -",Pneumonia,Tidak,2025-04-09
+K021,24,Betina,Kacang,37.8,Menurun,lemas,Cacingan,Tidak,2025-04-15
+K022,41,Jantan,Kacang,40.3,Tidak Ada,"berat badan turun, gatal, mata berair",Scabies,Ya,2025-04-05
+K023,21,Betina,Saanen,40.2,Tidak Ada,"mata berair, diare",Pneumonia,Ya,2025-04-05
+K024,27,Betina,Jawarandu,38.8,Tidak Ada,"demam, diare, lemas",Pneumonia,Ya,2025-04-07
+K025,9,Betina,Saanen,40.0,Menurun,"gatal, lemas",Scabies,Ya,2025-04-04
+K026,35,Jantan,Kacang,38.4,Tidak Ada,"batuk, demam, diare",Pneumonia,Ya,2025-03-30
+K027,44,Betina,Peranakan Etawa,38.8,Normal,"lemas, mata berair",Pneumonia,Tidak,2025-04-23
+K028,28,Betina,Saanen,38.8,Tidak Ada,"demam, luka kulit",Scabies,Ya,2025-04-07
+K029,27,Jantan,Kacang,40.7,Normal,"diare, demam",Pneumonia,Ya,2025-04-08
+K030,42,Jantan,Saanen,40.3,Normal,"berat badan turun, diare, batuk",Pneumonia,Ya,2025-04-16
+K031,31,Betina,Kacang,37.8,Tidak Ada,"batuk, mata berair, berat badan turun",Pneumonia,Ya,2025-04-11
+K032,22,Jantan,Kacang,38.5,Normal,"demam, mata berair",Pneumonia,Tidak,2025-03-31
+K033,34,Betina,Kacang,40.6,Menurun,mata berair,Pneumonia,Ya,2025-03-31
+K034,35,Betina,Jawarandu,38.2,Menurun,"mata berair, gatal",Scabies,Tidak,2025-04-03
+K035,15,Jantan,Kacang,38.5,Tidak Ada,"berat badan turun, -",Mastitis,Ya,2025-04-22
+K036,41,Betina,Jawarandu,40.0,Menurun,demam,Pneumonia,Tidak,2025-04-04
+K037,46,Jantan,Saanen,40.1,Normal,"gatal, diare, batuk",Scabies,Tidak,2025-04-06
+K038,43,Jantan,Saanen,38.0,Menurun,"gatal, luka kulit, demam",Scabies,Ya,2025-03-27
+K039,21,Jantan,Saanen,39.1,Menurun,"demam, luka kulit, -",Scabies,Tidak,2025-03-29
+K040,41,Betina,Saanen,38.7,Normal,"luka kulit, -",Scabies,Tidak,2025-03-24
+K041,11,Jantan,Jawarandu,38.5,Menurun,"luka kulit, diare, berat badan turun",Scabies,Tidak,2025-03-26
+K042,13,Jantan,Peranakan Etawa,39.8,Tidak Ada,gatal,Scabies,Tidak,2025-04-08
+K043,18,Jantan,Saanen,39.0,Tidak Ada,"batuk, demam",Pneumonia,Tidak,2025-04-03
+K044,30,Jantan,Boer,40.6,Menurun,batuk,Pneumonia,Ya,2025-04-22
+K045,37,Betina,Kacang,39.0,Menurun,"mata berair, batuk, diare",Pneumonia,Tidak,2025-03-31
+K046,48,Jantan,Jawarandu,37.8,Normal,batuk,Pneumonia,Ya,2025-04-13
+K047,11,Betina,Peranakan Etawa,39.0,Normal,mata berair,Pneumonia,Tidak,2025-04-23
+K048,37,Betina,Peranakan Etawa,40.2,Menurun,"demam, diare",Pneumonia,Tidak,2025-04-09
+K049,46,Jantan,Peranakan Etawa,40.7,Normal,"lemas, gatal, luka kulit",Scabies,Tidak,2025-04-19
+K050,31,Jantan,Saanen,38.0,Normal,mata berair,Pneumonia,Tidak,2025-04-10
+K051,17,Jantan,Kacang,40.5,Menurun,"demam, gatal",Scabies,Tidak,2025-04-01
+K052,47,Jantan,Jawarandu,40.5,Menurun,"berat badan turun, diare",Mastitis,Ya,2025-03-29
+K053,34,Jantan,Peranakan Etawa,39.5,Normal,batuk,Pneumonia,Tidak,2025-04-14
+K054,36,Betina,Boer,40.7,Tidak Ada,"batuk, mata berair",Pneumonia,Ya,2025-04-05
+K055,43,Betina,Saanen,40.6,Menurun,"diare, demam, batuk",Pneumonia,Ya,2025-04-11
+K056,22,Jantan,Saanen,40.5,Tidak Ada,"lemas, gatal",Scabies,Tidak,2025-04-13
+K057,26,Betina,Boer,39.3,Normal,"berat badan turun, mata berair",Pneumonia,Tidak,2025-04-06
+K058,46,Betina,Boer,39.3,Menurun,"gatal, demam",Scabies,Ya,2025-04-13
+K059,44,Jantan,Peranakan Etawa,39.2,Normal,mata berair,Pneumonia,Ya,2025-04-01
+K060,25,Jantan,Boer,40.2,Normal,berat badan turun,Mastitis,Ya,2025-03-31
+K061,31,Betina,Peranakan Etawa,39.1,Normal,mata berair,Pneumonia,Ya,2025-04-03
+K062,9,Jantan,Boer,39.6,Tidak Ada,"berat badan turun, demam",Pneumonia,Ya,2025-04-07
+K063,35,Jantan,Boer,38.8,Normal,"demam, lemas",Pneumonia,Ya,2025-04-14
+K064,28,Jantan,Boer,40.2,Normal,"demam, gatal",Scabies,Ya,2025-04-12
+K065,32,Betina,Boer,39.7,Tidak Ada,"diare, lemas, berat badan turun",Mastitis,Ya,2025-03-26
+K066,46,Jantan,Boer,40.3,Normal,"luka kulit, batuk, demam",Scabies,Tidak,2025-03-25
+K067,9,Betina,Jawarandu,39.6,Tidak Ada,"demam, -",Pneumonia,Ya,2025-04-06
+K068,39,Betina,Peranakan Etawa,39.8,Normal,demam,Pneumonia,Tidak,2025-04-19
+K069,8,Betina,Boer,38.6,Tidak Ada,lemas,Cacingan,Tidak,2025-04-10
+K070,24,Jantan,Boer,39.7,Tidak Ada,"batuk, demam, gatal",Scabies,Ya,2025-03-31
+K071,37,Betina,Kacang,37.7,Tidak Ada,"batuk, luka kulit",Scabies,Ya,2025-04-10
+K072,34,Jantan,Kacang,38.8,Menurun,"diare, luka kulit, gatal",Scabies,Ya,2025-04-23
+K073,41,Jantan,Peranakan Etawa,39.0,Normal,mata berair,Pneumonia,Ya,2025-04-01
+K074,10,Betina,Kacang,38.4,Normal,"batuk, demam, -",Pneumonia,Tidak,2025-04-01
+K075,30,Jantan,Jawarandu,40.4,Menurun,"-, mata berair, lemas",Pneumonia,Ya,2025-04-14
+K076,39,Betina,Peranakan Etawa,39.2,Menurun,"-, demam, berat badan turun",Pneumonia,Tidak,2025-04-04
+K077,42,Jantan,Boer,39.2,Menurun,"batuk, -",Pneumonia,Tidak,2025-04-08
+K078,34,Betina,Boer,39.3,Menurun,diare,Cacingan,Ya,2025-03-24
+K079,17,Betina,Kacang,40.9,Menurun,berat badan turun,Mastitis,Ya,2025-03-27
+K080,31,Betina,Boer,37.8,Normal,"batuk, diare, berat badan turun",Pneumonia,Ya,2025-04-14
+K081,41,Jantan,Saanen,40.0,Menurun,"luka kulit, mata berair",Scabies,Ya,2025-04-02
+K082,22,Betina,Saanen,38.5,Menurun,"lemas, luka kulit, batuk",Scabies,Ya,2025-03-25
+K083,8,Betina,Boer,40.1,Tidak Ada,batuk,Pneumonia,Ya,2025-03-25
+K084,29,Betina,Jawarandu,38.7,Normal,berat badan turun,Mastitis,Tidak,2025-04-19
+K085,12,Jantan,Peranakan Etawa,39.5,Menurun,mata berair,Pneumonia,Ya,2025-04-11
+K086,35,Betina,Peranakan Etawa,37.9,Menurun,"gatal, batuk",Scabies,Tidak,2025-04-09
+K087,20,Betina,Kacang,39.2,Normal,"berat badan turun, -",Mastitis,Ya,2025-04-13
+K088,11,Jantan,Kacang,40.5,Normal,"batuk, demam, mata berair",Pneumonia,Ya,2025-04-01
+K089,43,Jantan,Jawarandu,40.8,Tidak Ada,"batuk, berat badan turun, mata berair",Pneumonia,Tidak,2025-03-25
+K090,20,Betina,Peranakan Etawa,39.7,Tidak Ada,"diare, demam",Pneumonia,Ya,2025-03-25
+K091,22,Betina,Boer,38.3,Tidak Ada,"batuk, -",Pneumonia,Tidak,2025-04-20
+K092,29,Betina,Peranakan Etawa,39.5,Normal,"luka kulit, gatal",Scabies,Ya,2025-04-16
+K093,48,Jantan,Kacang,39.4,Menurun,berat badan turun,Mastitis,Ya,2025-04-19
+K094,8,Jantan,Jawarandu,37.9,Tidak Ada,"lemas, gatal, luka kulit",Scabies,Tidak,2025-03-27
+K095,15,Betina,Peranakan Etawa,39.8,Tidak Ada,luka kulit,Scabies,Tidak,2025-04-14
+K096,20,Jantan,Saanen,38.1,Menurun,"gatal, diare",Scabies,Ya,2025-04-17
+K097,15,Jantan,Kacang,37.6,Normal,"mata berair, lemas, batuk",Pneumonia,Ya,2025-04-16
+K098,37,Betina,Jawarandu,38.3,Menurun,"diare, lemas",Cacingan,Tidak,2025-03-28
+K099,26,Betina,Saanen,38.8,Normal,"diare, berat badan turun",Mastitis,Ya,2025-04-10
+K100,43,Betina,Jawarandu,38.0,Normal,diare,Cacingan,Ya,2025-04-01
